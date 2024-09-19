@@ -1,3 +1,7 @@
+<H3>ENTER YOUR NAME: NISHA.D</H3>
+<H3>ENTER YOUR REGISTER NO.: 212223230143</H3>
+<H3>EX. NO.3</H3>
+<H3>DATE:19-09-24</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
@@ -34,6 +38,7 @@
 ```
 Developed By: Nisha.D
 Reg.No: 212223230143
+
 ```
 ```
 from pgmpy.models import BayesianNetwork
