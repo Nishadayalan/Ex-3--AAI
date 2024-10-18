@@ -104,7 +104,8 @@ pos={
     'JohnCalls':(0,-4),
     'MaryCalls':(2,-4)
     }
-nx.draw(G,pos,with_labels=True,node_size=1500,node_color="skyblue",font_size=10,font_weight="bold",arrowsize=20)
+nx.draw(G,pos,with_labels=True,node_size=1500,node_color="skyblue",font_size=10,
+font_weight="bold",arrowsize=20)
 plt.title("Bayesian Network: Burglar Alarm Problem")
 plt.show()
 gibbssampler=GibbsSampling(alarm_model)
